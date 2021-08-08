@@ -4,7 +4,7 @@ closs Connection {
 	$host = "localhost";
 	$username = "root";
 	$pass = "";
-	$db = "db_aplikasiku1811500068";
+	$db = "db_aplikasiku1811500036";
 
 	try{
 $conn = new PDO ("mysql:host=$host;dbname=$dbname, $password");
